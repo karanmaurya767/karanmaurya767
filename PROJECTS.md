@@ -76,6 +76,14 @@ Custom designed portfolio site showcasing UI, dynamic motion, and full-stack con
 
 ---
 
+### 🔗 [Portfolio v2](https://portfolio-ochre-nu-74.vercel.app/) — **TypeScript / Next.js**
+Modern portfolio with sleek UI, responsive design, and smooth animations.
+
+**Source Code:** [github.com/karanmaurya767/portfolio](https://github.com/karanmaurya767/portfolio)
+**Stack:** TypeScript, Next.js, React, Tailwind CSS
+
+---
+
 ### 🔗 [Wiserfox](https://wiserfox.co.in) — **Frontend Showcase**
 Animated brand promotion landing page with highly polished GSAP scrolling dynamics.
 
@@ -104,8 +112,8 @@ Pomodoro-style focus timer with session tracking and minimal UI.
 | MLM Platforms | 4 | Laravel, MySQL |
 | E-commerce | 2 | Laravel, MySQL |
 | NGO / Social | 2 | Laravel, MySQL |
-| Personal / Frontend | 4 | HTML, CSS, JS, GSAP, Flask |
-| **Total Live Projects** | **12** | **Production-grade** |
+| Personal / Frontend | 5 | HTML, CSS, JS, GSAP, Flask, TypeScript |
+| **Total Live Projects** | **13** | **Production-grade** |
 
 ---
 

@@ -223,6 +223,17 @@ languages:   English (Professional), Hindi (Native)
   </td>
   <td>
 
+**🔗 [Portfolio v2](https://portfolio-ochre-nu-74.vercel.app/)**
+- Modern portfolio with sleek UI
+- TypeScript + Next.js powered
+- Responsive design & animations
+- [Source code →](https://github.com/karanmaurya767/portfolio)
+
+  </td>
+</tr>
+<tr>
+  <td>
+
 **🔗 [FocusFlow](https://focus-flow-roan-five.vercel.app)**
 - Pomodoro-style focus timer
 - Beat distraction

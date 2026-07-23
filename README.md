@@ -10,11 +10,18 @@
 ```
 
 <!-- Subtle animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=Full-stack+developer+%F0%9F%91%8B;Building+clean+%E2%9C%A8+fast+%E2%9A%A1+accessible+web+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%F0%9F%91%8B;1%2B+years+shipping+production+apps+%F0%9F%9A%80;Laravel+%7C+Flask+%7C+React+%7C+GSAP+%E2%9C%A8;Currently+at+Shubham+Infotech+%F0%9F%92%BC" alt="Typing SVG" />
 
 <br/>
 
-<!-- Visitor counter + quick badges row -->
+<!-- Quick action badges -->
+<p>
+  <a href="https://pibrains.com"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00F5D4?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Portfolio"/></a>
+  <a href="https://github.com/karanmaurya767/karan-kushawaha-resume/raw/main/Karan_Kushawaha_Resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-Download_PDF-9B5DE5?style=for-the-badge&logo=adobeacrobatreader&logoColor=ffffff" alt="Resume"/></a>
+  <a href="mailto:kmkaranmaurya767@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/></a>
+</p>
+
+<!-- Visitor counter + quick stats -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=karanmaurya767&label=PROFILE+VIEWS&color=00F5D4&style=for-the-badge" alt="views"/>
   &nbsp;
@@ -27,106 +34,205 @@
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
 ```yaml
-name:        Karan Maurya
-role:        Full-Stack Developer
-location:    India 🇮🇳
-motto:       "Ship fast, learn faster, keep it accessible."
-focus:       ["Web Apps", "Interactive UI", "3D on the Web"]
-currently:   Building production-grade projects on Vercel
-coffee:      Always brewing ☕
+name:        Karan Kushawaha
+role:        Full Stack Developer
+experience:  1+ year (production-grade apps)
+company:     Shubham Infotech, Varanasi
+education:   BCA (Pursuing 2025-2026)
+location:    Jansa, Varanasi, Uttar Pradesh, India 🇮🇳
+focus:       ["Laravel", "Flask", "Full-Stack Web Apps", "MLM Systems", "E-commerce"]
+status:      Open to opportunities
+languages:   English (Professional), Hindi (Native)
 ```
 
-> *"Full-stack developer who ships clean, fast, and accessible web experiences."*
+> *"Highly motivated Full Stack Developer with 1 year of comprehensive experience in designing, developing, and deploying robust web applications. Committed to applying clean code architecture and software engineering best practices to build scalable, high-performance systems."*
+
+**Currently working at** [Shubham Infotech, Varanasi](https://shubhaminfotech.com) as a **Software Developer** since **July 2025**, where I've:
+- 🚀 Led development & deployment of **7+ dynamic web applications** (MLM, NGO, E-commerce, Student Management)
+- 🗄️ Designed & optimized **MySQL relational database schemas** for scalable applications
+- 🔄 Managed **full SDLC** from requirement analysis to production deployment
+- 🤝 Collaborated directly with clients to translate business needs into technical features
+- 📱 Built **responsive interfaces** with Tailwind CSS and advanced JavaScript
 
 ---
 
-## 🛠️ Tech Stack & Toolkit
+## 🛠️ Technical Stack
 
 <p align="center">
 
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0a0a0a" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
   <br/>
 
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0a0a0a" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <br/>
 
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <!-- UI/UX & Tools -->
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/AOS_Animation-FF6B6B?style=for-the-badge&logo=csswizardry&logoColor=white" alt="AOS"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Live Production Projects
 
+### 🏢 MLM & Network Marketing Platforms
 <table width="100%">
-<thead>
 <tr>
-  <th align="left">Project</th>
-  <th align="left">What it does</th>
-  <th align="left">Stack</th>
-  <th align="left">Live</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>🧠 <b><a href="https://github.com/karanmaurya767/pibrains">Pi Brains</a></b></td>
-  <td>Production web platform — frontend + deployment pipeline</td>
-  <td><code>TypeScript</code> <code>Next.js</code></td>
-  <td><a href="https://pibrains.vercel.app">↗ Visit</a></td>
-</tr>
-<tr>
-  <td>⚡ <b><a href="https://github.com/karanmaurya767/FocusFlow">FocusFlow</a></b></td>
-  <td>Pomodoro-style focus timer to beat distraction</td>
-  <td><code>JavaScript</code> <code>HTML5</code> <code>CSS3</code></td>
-  <td><a href="https://focus-flow-roan-five.vercel.app">↗ Live Demo</a></td>
-</tr>
-<tr>
-  <td>🫧 <b><a href="https://github.com/karanmaurya767/Bubble_Game">Bubble Pop Game</a></b></td>
-  <td>Interactive canvas-based arcade game with score tracking</td>
-  <td><code>JavaScript</code> <code>Canvas</code></td>
-  <td><a href="https://bubble-pop-game-sepia.vercel.app">↗ Play Now</a></td>
+  <td width="50%">
+
+**🔗 [FS Foundations](https://fsfoundations.com)**
+- Highly scalable MLM system
+- Built on Laravel framework
+- Integrated transaction processing
+- Multi-tier account management
+
+  </td>
+  <td width="50%">
+
+**🔗 [Nilexuma](https://nilexuma.com)**
+- Customized MLM framework
+- Automated account tier tracking
+- Referral-based commission logic
+- Real-time downline management
+
+  </td>
 </tr>
 <tr>
-  <td>🌐 <b><a href="https://github.com/karanmaurya767/website-pro">website-pro</a></b></td>
-  <td>Polished, responsive marketing site with modern layout</td>
-  <td><code>TypeScript</code></td>
-  <td><a href="https://github.com/karanmaurya767/website-pro">↗ Repo</a></td>
+  <td>
+
+**🔗 [Pragati](https://pragati.mbizz.in)**
+- MLM product base portal
+- User ordering framework
+- Multi-tier product networking
+- Inventory + commission tracking
+
+  </td>
+  <td>
+
+**🔗 [WayCrest E-commerce](https://waycrest.mbizz.in)**
+- E-shop with referral MLM
+- Product catalog + cart
+- Downline integration
+- Payment gateway ready
+
+  </td>
 </tr>
-<tr>
-  <td>🧊 <b><a href="https://github.com/karanmaurya767/3D-WEBSITE">3D-WEBSITE</a></b></td>
-  <td>Web3D experiment — bringing depth and motion to the web</td>
-  <td><code>3D</code> <code>WebGL</code></td>
-  <td><a href="https://github.com/karanmaurya767/3D-WEBSITE">↗ Repo</a></td>
-</tr>
-<tr>
-  <td>📚 <b><a href="https://github.com/karanmaurya767/cohort-3">cohort-3</a></b></td>
-  <td>Collection of cohort assignments with live deploys</td>
-  <td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></td>
-  <td><a href="https://github.com/karanmaurya767/cohort-3">↗ Repo</a></td>
-</tr>
-</tbody>
 </table>
+
+### 🛒 E-commerce Platforms
+<table width="100%">
+<tr>
+  <td width="50%">
+
+**🔗 [VedaCare](https://vedacare.mbizz.in)**
+- Organic products e-commerce
+- Customer affiliate flow
+- Product categorization
+- Order management system
+
+  </td>
+  <td width="50%">
+
+**🔗 [Sri Krishna Foundation](https://srikrishnafoundation.com)**
+- Student management system
+- Database for student records
+- Course tracking
+- Fee schedule management
+
+  </td>
+</tr>
+</table>
+
+### 🤝 NGO & Social Impact
+<table width="100%">
+<tr>
+  <td width="50%">
+
+**🔗 [Bhudev](https://bhudev.mbizz.in)**
+- Public charity portal
+- Payment gateway integration
+- Donation management
+- Campaign tracking
+
+  </td>
+  <td width="50%">
+
+**🔗 [ShineOnCare](https://shineoncare.mbizz.in)**
+- Volunteer management
+- Task & campaign logistics
+- Administrative dashboard
+- Event coordination
+
+  </td>
+</tr>
+</table>
+
+### 🎨 Frontend Showcases & Personal Projects
+<table width="100%">
+<tr>
+  <td width="50%">
+
+**🔗 [Pi Brains Portfolio](https://pibrains.com)**
+- Custom designed portfolio site
+- Dynamic motion effects
+- Full-stack contact portal
+- GSAP-powered animations
+
+  </td>
+  <td width="50%">
+
+**🔗 [Wiserfox](https://wiserfox.co.in)**
+- Animated brand promotion page
+- Highly polished GSAP scrolling
+- Motion design showcase
+- Responsive layout
+
+  </td>
+</tr>
+<tr>
+  <td>
+
+**🔗 [Flask EMS (Vercel)](https://flask-app-indol-one.vercel.app/)**
+- Full CRUD Employee Management System
+- Python Flask + SQLAlchemy
+- User authentication
+- Session management
+
+  </td>
+  <td>
+
+**🔗 [FocusFlow](https://focus-flow-roan-five.vercel.app)**
+- Pomodoro-style focus timer
+- Beat distraction
+- JavaScript + HTML5 + CSS3
+
+  </td>
+</tr>
+</table>
+
+> **Note:** Most production client projects are private (client-owned codebases). Live links above demonstrate deployed, working applications.
 
 ---
 
@@ -153,20 +259,37 @@ coffee:      Always brewing ☕
   <img src="https://raw.githubusercontent.com/karanmaurya767/karanmaurya767/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
-> *To enable the snake animation, create a `.github/workflows/snake.yml` file — instructions at the bottom of this README.*
+---
+
+## 🎓 Education & Certifications
+
+```yaml
+🎓 BCA (Bachelor of Computer Applications)
+   Institution: Rastraveer Nihalarathi College, Varanasi
+   Period:      2025 – 2026 (Pursuing)
+
+📜 O-Level Certification (NIELIT)
+   Grade:   C
+   Period:  2024 – 2025
+   Issued:  Talent Computer Classes
+
+📚 10th & 12th Grade
+   Institution: Kashinath Vishwavidyalaya Kakarahi
+   Location:    Saidpur, Gazipur, UP
+```
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/karanmaurya767"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://pibrains.com"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-00F5D4?style=for-the-badge&logo=google-chrome&logoColor=0a0a0a" alt="Portfolio"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/karanmaurya767"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/karanmaurya767"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   &nbsp;
-  <a href="https://pibrains.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=google-chrome&logoColor=0a0a0a" alt="Portfolio"/></a>
+  <a href="mailto:kmkaranmaurya767@gmail.com"><img src="https://img.shields.io/badge/Email-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
-  <a href="mailto:karanmaurya767@github.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/karanmaurya767/karan-kushawaha-resume"><img src="https://img.shields.io/badge/📄_Resume-Download-9B5DE5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
